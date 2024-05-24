@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="713de5d9-fa71-476b-9601-aa326745d4c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multiple_condition_criterium.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SI_2024_lab2_222061" beforeDir="false" afterPath="$PROJECT_DIR$/SI_2024_lab2_222061" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SI_2024_lab2_222061/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/SI_2024_lab2_222061/README.md" afterDir="false" />
@@ -90,12 +90,23 @@
       <option name="presentableId" value="Default" />
       <updated>1716577191447</updated>
       <workItem from="1716577191698" duration="297000" />
-      <workItem from="1716577639378" duration="7515000" />
+      <workItem from="1716577639378" duration="8518000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

@@ -73,5 +73,6 @@ class SILab2Test {
         int payment = 46;
         assertTrue(SILab2.checkCart(allItems, payment));
     }
-
 }
+
+
