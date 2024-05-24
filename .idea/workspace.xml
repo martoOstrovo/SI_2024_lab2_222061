@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="713de5d9-fa71-476b-9601-aa326745d4c4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SI_2024_lab2_222061" beforeDir="false" afterPath="$PROJECT_DIR$/SI_2024_lab2_222061" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SI_2024_lab2_222061/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/SI_2024_lab2_222061/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +27,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SI_2024_lab2_222061" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -86,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716577191447</updated>
       <workItem from="1716577191698" duration="297000" />
-      <workItem from="1716577639378" duration="953000" />
+      <workItem from="1716577639378" duration="1329000" />
     </task>
     <servers />
   </component>
