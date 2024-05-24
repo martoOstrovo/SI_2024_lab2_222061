@@ -7,6 +7,7 @@
     <list default="true" id="713de5d9-fa71-476b-9601-aa326745d4c4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/SI_2024_lab2_222061" beforeDir="false" afterPath="$PROJECT_DIR$/SI_2024_lab2_222061" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SI_2024_lab2_222061/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/SI_2024_lab2_222061/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flow control graph/Цикломатска комплексност.txt" beforeDir="false" afterPath="$PROJECT_DIR$/flow control graph/Цикломатска комплексност.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716577191447</updated>
       <workItem from="1716577191698" duration="297000" />
-      <workItem from="1716577639378" duration="1329000" />
+      <workItem from="1716577639378" duration="1625000" />
     </task>
     <servers />
   </component>
